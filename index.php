@@ -17,7 +17,7 @@
     <!-- Aquí empieza el encabezado principal que se mantendrá en todas las páginas del sitio web -->
 
     <header>
-      <h1>Encabezado</h1>
+      <h1>Encabezado Nuevo Nick</h1>
     </header>
 
     <nav>
