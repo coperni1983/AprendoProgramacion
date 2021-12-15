@@ -20,6 +20,7 @@
       <h1>Encabezado Tercer Commit</h1>
     </header>
 
+    <h2>Agrego un cambio</h2>
     <nav>
       <ul>
         <li><a href="#">Inicio</a></li>
