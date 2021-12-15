@@ -21,6 +21,8 @@
     </header>
 
     <h2>Agrego un cambio</h2>
+
+    <h6>Agrego un nuevo titulo h6 a las 9:12 el 15/12</h6>
     <nav>
       <ul>
         <li><a href="#">Inicio</a></li>
